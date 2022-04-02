@@ -19,3 +19,30 @@
 }
 
 /* Write your code here. */
+
+.banner-card-item {
+  border: 2px solid #cbced2;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  width: 100%;
+  padding: 30px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+.heading {
+  color: #326a9d;
+  font-size: 30px;
+  font-weight: 700;
+}
+.description {
+  color: #cbced2;
+  font-size: 20px;
+}
+.show-more-button {
+  color: #326a9d;
+  font-size: 16px;
+  border: 2px solid #64748b;
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 8px;
+}
